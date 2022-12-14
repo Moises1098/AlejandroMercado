@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: bookman-jf-pro, serif;
+}
+
+.About h1 {
+  position: absolute;
+  top: 216px;
+  right: calc(50vw - 50px);
+  text-align: center;
+  color: black;
+}

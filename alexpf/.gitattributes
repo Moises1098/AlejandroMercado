@@ -1,0 +1,4 @@
+*.MP4 filter=lfs diff=lfs merge=lfs -text
+8c2936a6971f70d3a93137a0518b29f9a2c90b9de7809b1f5ca5a78bb682a3f6 filter=lfs diff=lfs merge=lfs -text
+Sounds-from-inside.mp4 filter=lfs diff=lfs merge=lfs -text
+alexpf/src/assets/Sounds-from-inside.mp4 filter=lfs diff=lfs merge=lfs -text
